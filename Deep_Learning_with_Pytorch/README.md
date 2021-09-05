@@ -8,14 +8,14 @@ Notebooks to use native Pytorch with FastAI. These will cover the following topi
 
 
 
-The notebooks will also cover the usage of following libraries:
+The notebooks will also cover the usage of following libraries, apart from the regular ones:
 
-- Albumentations
-- Weights and Biases
-- Gradio
-- Streamlit - Via Opyrator
-- Alibi Detect
-- Captum
-- BentoML
+- [x] Albumentations
+- [ ] Alibi Detect
+- [ ] BentoML
+- [ ] Captum
+- [ ] Gradio
+- [ ] Streamlit - Via Opyrator
+- [x] Weights and Biases
 
 <a href="https://www.buymeacoffee.com/sheikmohdimran" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
